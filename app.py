@@ -1,15 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
-pip install replicate
-
-
-# In[2]:
-
-
 from flask import Flask,request,render_template
 import replicate
 import os
